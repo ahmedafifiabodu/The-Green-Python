@@ -2,9 +2,15 @@
 
 Welcome to "The Green Python," a vibrant and engaging rendition of the classic Snake game. Developed with Python and Pygame, this project aims to rekindle the joy and excitement of the timeless game, enhancing it with rich graphics, captivating sound effects, and smooth gameplay to deliver an unforgettable experience.
 
+
+
+Uploading The Green Python.mp4…
+
+
+
 ## Getting Started
 
-Dive into the world of "The Green Python" by setting up the game on your local machine. Ensure you have Python and Pygame installed to embark on this adventure.
+Dive into the "The Green Python" world by setting up the game on your local machine. Ensure you have Python and Pygame installed to embark on this adventure.
 
 ### Prerequisites
 
@@ -41,7 +47,7 @@ Navigate "The Green Python" through the garden of pixels with these simple contr
 
 ## Contributing
 
-Your contributions can help "The Green Python" grow and evolve! Whether it's a new feature, a bug fix, or an improvement, your input is welcome. Feel free to fork the repository and submit a pull request.
+Your contributions can help "The Green Python" grow and evolve! Your input is welcome whether it's a new feature, a bug fix, or an improvement. Please feel free to fix the repository and submit a pull request.
 
 ## License
 
