@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Work\\Python\\Project\\Sanke Game Code\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07661059-3831-46D8-852F-CEADAC402A1E}|Sanke Game.pyproj|D:\\Work\\Python\\Project\\Sanke Game Code\\Snake Game.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{07661059-3831-46D8-852F-CEADAC402A1E}|Sanke Game.pyproj|solutionrelative:Snake Game.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Snake Game.py",
+              "DocumentMoniker": "D:\\Work\\Python\\Project\\Sanke Game Code\\Snake Game.py",
+              "RelativeDocumentMoniker": "Snake Game.py",
+              "ToolTip": "D:\\Work\\Python\\Project\\Sanke Game Code\\Snake Game.py",
+              "RelativeToolTip": "Snake Game.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-28T13:00:14.036Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
