@@ -2,9 +2,9 @@
 
 Welcome to "The Green Python," a vibrant and engaging rendition of the classic Snake game. Developed with Python and Pygame, this project aims to rekindle the joy and excitement of the timeless game, enhancing it with rich graphics, captivating sound effects, and smooth gameplay to deliver an unforgettable experience.
 
-<p align="center">
-  <img width="460" height="300" src="https://github.com/ahmedafifiabodu/The-Green-Python/assets/74466733/7c4214f9-08ca-472f-b496-455adbee1cca">
-</p>
+<div align="center">
+  <video src="https://github.com/ahmedafifiabodu/The-Green-Python/assets/74466733/7c4214f9-08ca-472f-b496-455adbee1cca" width="400" />
+</div>
 
 ## Getting Started
 
